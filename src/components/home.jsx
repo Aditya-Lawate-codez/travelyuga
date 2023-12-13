@@ -3,8 +3,7 @@ import Landinghand from './landinghand';
 const Home = () => {
     return (
         <div>
-            {/* <Landinghand/> */}
-            {Landinghand()}
+            <Landinghand />
         </div>
     );
 }
